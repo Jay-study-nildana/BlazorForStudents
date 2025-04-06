@@ -1,11 +1,18 @@
-# Blazor
+# Comic Book Shop Blazor
 
-Some Blazor practice projects for my students.
+Simple Comic Book Shop with Blazor.
 
-## Projects
+## How to Run
 
-1. [BlazorHelloWorld](BlazorHelloWorld)
-1. [ComicBookShopBlazor](ComicBookShopBlazor)
+1. Update, DefaultConnection
+1. Update, StripeApiKey
+1. Update-Database to run migrations
+1. Register as Admin to add admin users
+1. Register as Customer to shop and place orders
+
+## Inspired By
+
+Code inspired by the Udemy Course, [Blazor - The Complete Guide](https://www.udemy.com/course/introduction-to-aspnet-core-x/?couponCode=NVDIN35). I highly recommend you buy it.
 
 # book a session with me
 

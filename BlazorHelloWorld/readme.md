@@ -1,11 +1,17 @@
-# Blazor
+# Blazor Hello World
 
-Some Blazor practice projects for my students.
+Some essential features of Blazor are covered here.
 
-## Projects
+Topics Covered
 
-1. [BlazorHelloWorld](BlazorHelloWorld)
-1. [ComicBookShopBlazor](ComicBookShopBlazor)
+1. Setting Up a new Blazor Project
+1. Click Counter
+1. Loading data from NASA APOD API
+1. Forms with List Display
+1. Loading data and Table Display
+1. Parent and Child Component
+1. Routing
+1. Blazor LifeCycle
 
 # book a session with me
 
